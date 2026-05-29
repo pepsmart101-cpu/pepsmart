@@ -1,0 +1,122 @@
+{
+  "generated": "2026-05-28",
+  "lastUpdated": "2026-05-28",
+  "disclaimer": "Research peptide vendors change frequently. Always verify COAs independently before purchasing.",
+  "vendors": [
+    {
+      "id": "vendor-1",
+      "name": "PurePep Research",
+      "url": "https://example.com/purepep",
+      "rating": 4.8,
+      "priceTier": "$$",
+      "priceRange": "Mid-range",
+      "hasCOA": true,
+      "coaDetail": "Third-party tested by Janoshik Analytical. All COAs publicly posted.",
+      "paymentMethods": ["Credit Card", "Crypto"],
+      "reputationBadge": "Community Favorite",
+      "pros": [
+        "Excellent purity (99%+) consistently",
+        "Fast shipping (3-5 days)",
+        "Responsive customer support"
+      ],
+      "cons": [
+        "Limited peptide selection",
+        "No international shipping"
+      ],
+      "userReviewSummary": "Overwhelmingly positive. Users praise purity and shipping speed. 4.8/5 from 200+ community reviews.",
+      "bestFor": ["GLP-1s", "BPC-157", "NAD+"]
+    },
+    {
+      "id": "vendor-2",
+      "name": "AminoVault Labs",
+      "url": "https://example.com/aminovault",
+      "rating": 4.6,
+      "priceTier": "$",
+      "priceRange": "Budget-friendly",
+      "hasCOA": true,
+      "coaDetail": "COAs available on request. Uses MZ Labs for testing.",
+      "paymentMethods": ["Credit Card", "Crypto", "Zelle"],
+      "reputationBadge": "Best Value",
+      "pros": [
+        "Most affordable pricing",
+        "Wide product catalog (60+ peptides)",
+        "Bulk purchase discounts"
+      ],
+      "cons": [
+        "Slower shipping (7-14 days)",
+        "COAs not always immediately posted"
+      ],
+      "userReviewSummary": "Great value for the price. Some users note slower shipping but reliability is solid. 4.6/5 from 150+ reviews.",
+      "bestFor": ["Research stacks", "Growth peptides", "Cognitive peptides"]
+    },
+    {
+      "id": "vendor-3",
+      "name": "Titan Peptide Sciences",
+      "url": "https://example.com/titan",
+      "rating": 4.9,
+      "priceTier": "$$$",
+      "priceRange": "Premium",
+      "hasCOA": true,
+      "coaDetail": "Full mass spec and HPLC analysis. COAs for every batch. Industry-leading transparency.",
+      "paymentMethods": ["Credit Card", "Crypto", "Wire Transfer"],
+      "reputationBadge": "Gold Standard",
+      "pros": [
+        "Highest purity standards (99.5%+)",
+        "Complete transparency with batch-level COAs",
+        "Excellent customer education resources"
+      ],
+      "cons": [
+        "Premium pricing",
+        "Minimum order $100"
+      ],
+      "userReviewSummary": "Considered the gold standard by experienced users. Premium price justified by quality. 4.9/5 from 300+ reviews.",
+      "bestFor": ["Clinical research", "Serious biohackers", "Sensitive protocols"]
+    },
+    {
+      "id": "vendor-4",
+      "name": "ElitePeptide Co",
+      "url": "https://example.com/elitepeptide",
+      "rating": 4.5,
+      "priceTier": "$$",
+      "priceRange": "Mid-range",
+      "hasCOA": true,
+      "coaDetail": "COAs posted for most products. Some older batches may not have them listed.",
+      "paymentMethods": ["Credit Card", "Crypto", "PayPal"],
+      "reputationBadge": "Wide Selection",
+      "pros": [
+        "Very large catalog (100+ peptides)",
+        "International shipping available",
+        "Discreet packaging"
+      ],
+      "cons": [
+        "Inconsistent COA availability",
+        "Customer service can be slow"
+      ],
+      "userReviewSummary": "Good all-around vendor with massive selection. Quality varies slightly by product line. 4.5/5 from 180+ reviews.",
+      "bestFor": ["Hard-to-find peptides", "International orders", "Research compounds"]
+    },
+    {
+      "id": "vendor-5",
+      "name": "Recon Labs",
+      "url": "https://example.com/reconlabs",
+      "rating": 4.7,
+      "priceTier": "$$",
+      "priceRange": "Mid-range",
+      "hasCOA": true,
+      "coaDetail": "Full COAs included with every order. Uses independent third-party testing.",
+      "paymentMethods": ["Credit Card", "Crypto"],
+      "reputationBadge": "Newcomer Favorite",
+      "pros": [
+        "Great for beginners (starter kits available)",
+        "Free reconstitution guide included",
+        "Fast US shipping"
+      ],
+      "cons": [
+        "Limited international options",
+        "Newer company (less track record)"
+      ],
+      "userReviewSummary": "Quickly gaining popularity. Beginners love the starter kits and included guides. 4.7/5 from 80+ reviews.",
+      "bestFor": ["First-time buyers", "Protocol kits", "US customers"]
+    }
+  ]
+}

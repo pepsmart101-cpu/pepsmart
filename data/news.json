@@ -1,0 +1,84 @@
+{
+  "articles": [
+    {
+      "id": "news-1",
+      "date": "2026-05-27",
+      "title": "Retatrutide Phase 3 Data Exceeds Expectations",
+      "source": "Nature Medicine",
+      "url": "https://example.com/retatrutide-p3",
+      "summary": "New triple-agonist retatrutide shows up to 24% weight loss in 48-week trials, surpassing tirzepatide and semaglutide.",
+      "tags": ["GLP-1", "Retatrutide", "Weight Loss"],
+      "category": "Research Breakthrough"
+    },
+    {
+      "id": "news-2",
+      "date": "2026-05-25",
+      "title": "FDA Approves New Oral GLP-1 Formulation",
+      "source": "FDA Announcement",
+      "url": "https://example.com/fda-oral-glp1",
+      "summary": "The FDA has approved a novel oral formulation of semaglutide with improved bioavailability, making injections optional for some patients.",
+      "tags": ["Semaglutide", "FDA", "Oral"],
+      "category": "Regulatory"
+    },
+    {
+      "id": "news-3",
+      "date": "2026-05-22",
+      "title": "BPC-157 Shows Promise in Traumatic Brain Injury Study",
+      "source": "Journal of Neurotrauma",
+      "url": "https://example.com/bpc157-tbi",
+      "summary": "Preclinical study finds BPC-157 may reduce neuroinflammation and promote recovery after TBI, opening new therapeutic avenues.",
+      "tags": ["BPC-157", "Brain Health", "Neuroscience"],
+      "category": "Research Breakthrough"
+    },
+    {
+      "id": "news-4",
+      "date": "2026-05-20",
+      "title": "NAD+ Precursors Enter Phase 2 Longevity Trials",
+      "source": "Aging Cell",
+      "url": "https://example.com/nad-longevity",
+      "summary": "Largest-ever clinical trial on NAD+ precursors begins, testing whether boosting NAD+ can slow biological aging markers.",
+      "tags": ["NAD+", "Longevity", "Clinical Trial"],
+      "category": "Clinical Trial"
+    },
+    {
+      "id": "news-5",
+      "date": "2026-05-18",
+      "title": "MOTS-C Linked to Improved Insulin Sensitivity",
+      "source": "Cell Metabolism",
+      "url": "https://example.com/mots-c-insulin",
+      "summary": "Mitochondrial peptide MOTS-C found to significantly improve insulin sensitivity in metabolic syndrome patients.",
+      "tags": ["MOTS-C", "Metabolism", "Insulin"],
+      "category": "New Study"
+    },
+    {
+      "id": "news-6",
+      "date": "2026-05-15",
+      "title": "GHK-Cu Topical Formulation Gets Patent for Hair Growth",
+      "source": "Patent Office / Dermatol Science",
+      "url": "https://example.com/ghk-cu-hair",
+      "summary": "New patented copper peptide formulation shows 40% increase in hair density over 6 months in clinical testing.",
+      "tags": ["GHK-Cu", "Hair Growth", "Skin"],
+      "category": "Industry News"
+    },
+    {
+      "id": "news-7",
+      "date": "2026-05-12",
+      "title": "Semax & Selank: Russian Cognitive Peptides Gain Global Interest",
+      "source": "Neuropharmacology",
+      "url": "https://example.com/semax-selank",
+      "summary": "Western research institutions begin large-scale studies on nootropic peptides Semax and Selank for anxiety and cognitive enhancement.",
+      "tags": ["Semax", "Selank", "Cognitive"],
+      "category": "Trending"
+    },
+    {
+      "id": "news-8",
+      "date": "2026-05-10",
+      "title": "Regulatory Crackdown on Unlicensed Peptide Vendors",
+      "source": "Regulatory Watch",
+      "url": "https://example.com/peptide-regulation",
+      "summary": "Multiple countries issue warnings against unlicensed peptide sellers. Experts urge users to verify COAs and sourcing transparency.",
+      "tags": ["Regulation", "Sourcing", "Safety"],
+      "category": "Regulatory"
+    }
+  ]
+}
