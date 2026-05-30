@@ -1,118 +1,45 @@
 {
   "brand": "Let's Talk Peps",
-  "tagline": "Your daily dose of peptide knowledge",
-  "hosts": [
-    {
-      "id": "sarah",
-      "name": "Dr. Sarah Chen",
-      "title": "Lead Researcher & Host",
-      "bio": "PhD in Biochemistry with 10+ years in peptide research.",
-      "image": "/images/team/sarah.jpg",
-      "emoji": "👩‍🔬"
-    },
-    {
-      "id": "keisha",
-      "name": "Keisha Williams",
-      "title": "Health Coach & Co-Host",
-      "bio": "Certified nutrition coach and peptide therapy advocate.",
-      "image": "/images/team/keisha.jpg",
-      "emoji": "👩‍🏫"
-    },
-    {
-      "id": "minh",
-      "name": "Minh Nguyen",
-      "title": "Biohacker & Co-Host",
-      "bio": "Longevity enthusiast and peptide researcher with real-world protocol experience.",
-      "image": "/images/team/minh.jpg",
-      "emoji": "👨‍🔬"
-    }
-  ],
-  "schedule": {
-    "monday": { "theme": "Beginner Education", "emoji": "📚" },
-    "tuesday": { "theme": "Deep Dives & Research", "emoji": "🔬" },
-    "wednesday": { "theme": "Myth-Busting Wednesday", "emoji": "🕵️‍♀️" },
-    "thursday": { "theme": "Protocol Spotlight", "emoji": "💉" },
-    "friday": { "theme": "Lifestyle & Optimization", "emoji": "⚡" },
-    "saturday": { "theme": "Weekend Wisdom", "emoji": "🧠" },
-    "sunday": { "theme": "Community Q&A", "emoji": "👥" }
-  },
   "episodes": [
     {
-      "id": "mon-1",
       "day": "monday",
-      "weekOf": "2026-05-25",
-      "title": "Peptides 101: What They Are & How They Work",
-      "description": "Just getting started? Sarah, Keisha, and Minh break down exactly what peptides are, how they signal your cells, and why they're the hottest topic in health optimization.",
-      "duration": "4:32",
-      "audioUrl": "/podcast/placeholder.mp3",
-      "showNotes": ["Peptides are short chains of amino acids — your body's natural signaling molecules", "Unlike steroids, peptides tell your body what to do rather than doing it themselves", "Key categories: GLP-1s, Repair peptides, Cognitive peptides, Longevity peptides", "Always start with a single peptide to understand how your body responds", "Third-party testing (COAs) is non-negotiable for safety"],
-      "tags": ["beginner", "basics", "education"]
+      "title": "Peptides 101: What They Are",
+      "duration": "5 min",
+      "hosts": [
+        "Sarah",
+        "Keisha",
+        "Minh"
+      ]
     },
     {
-      "id": "tue-1",
       "day": "tuesday",
-      "weekOf": "2026-05-25",
-      "title": "GLP-1 Deep Dive: Tirzepatide vs Semaglutide",
-      "description": "The ultimate comparison. We break down the mechanisms, results, side effects, and costs of the two most popular GLP-1s — plus a look at the emerging triple agonist Retatrutide.",
-      "duration": "5:15",
-      "audioUrl": "/podcast/placeholder.mp3",
-      "showNotes": ["Semaglutide (Ozempic/Wegovy): Single GLP-1 agonist, the gold standard", "Tirzepatide (Mounjaro/Zepbound): Dual GLP-1/GIP agonist, often more effective", "Retatrutide: Triple agonist (GLP-1/GIP/GCG) in Phase 3 trials", "Side effects comparison: nausea, fatigue, sulfur burps, constipation", "Cost: Brand $1,000+/mo, Compounded $300-500"],
-      "tags": ["glp-1", "tirzepatide", "semaglutide"]
+      "title": "GLP-1 Deep Dive",
+      "duration": "5 min"
     },
     {
-      "id": "wed-1",
       "day": "wednesday",
-      "weekOf": "2026-05-25",
       "title": "5 Peptide Myths That Won't Die",
-      "description": "Are peptides steroids? Do you have to inject? Will you gain it all back? We tackle the most persistent myths in the peptide world with science and real experience.",
-      "duration": "4:45",
-      "audioUrl": "/podcast/placeholder.mp3",
-      "showNotes": ["Myth 1: Peptides are steroids — FALSE, completely different mechanisms", "Myth 2: You don't need to exercise on GLP-1s — DANGEROUS", "Myth 3: Once you start, you're on them forever — FALSE", "Myth 4: All peptides are the same — FALSE, purity varies wildly", "Myth 5: More is better — FALSE, peptides follow a U-shaped curve"],
-      "tags": ["myths", "myth-busting", "education"]
+      "duration": "5 min"
     },
     {
-      "id": "thu-1",
       "day": "thursday",
-      "weekOf": "2026-05-25",
       "title": "BPC-157: The Injury Repair Powerhouse",
-      "description": "From tendon healing to gut repair — we explore why BPC-157 is the most talked-about repair peptide. Real protocols, real results, and what the research actually says.",
-      "duration": "4:50",
-      "audioUrl": "/podcast/placeholder.mp3",
-      "showNotes": ["BPC-157 discovered in gastric juice, promotes angiogenesis", "Common protocols: 250-500mcg twice daily, 4-6 week cycles", "Best for: tendonitis, ligament injuries, gut healing", "Always pair with TB-500 for synergistic repair effects", "Oral BPC-157 arginate capsules show promise"],
-      "tags": ["bpc-157", "repair", "protocol"]
+      "duration": "5 min"
     },
     {
-      "id": "fri-1",
       "day": "friday",
-      "weekOf": "2026-05-25",
-      "title": "Protein, Sleep & Peptides: The Optimization Triad",
-      "description": "Peptides work best when your foundation is solid. We cover why protein is non-negotiable, how sleep optimization amplifies results, and the lifestyle habits that make or break your protocol.",
-      "duration": "4:20",
-      "audioUrl": "/podcast/placeholder.mp3",
-      "showNotes": ["Protein target: 1g per pound of goal body weight", "Sleep is when growth peptides (Ipamorelin, CJC-1295) do their work", "Hydration: 3-4L water daily prevents peptide face", "Strength training protects muscle mass during fat loss", "Track everything: symptom tracker, protein intake, sleep quality"],
-      "tags": ["lifestyle", "protein", "sleep"]
+      "title": "Protein, Sleep & Peptides",
+      "duration": "5 min"
     },
     {
-      "id": "sat-1",
       "day": "saturday",
-      "weekOf": "2026-05-25",
-      "title": "NAD+ & Longevity: Can We Slow Aging?",
-      "description": "NAD+ is the hottest molecule in longevity science. We explore what it does, how peptide precursors work, and whether the hype matches the science.",
-      "duration": "5:00",
-      "audioUrl": "/podcast/placeholder.mp3",
-      "showNotes": ["NAD+ levels decline ~50% from age 20 to 60", "Precursors: NMN, NR, NAD+ itself — different absorption profiles", "Benefits: energy, DNA repair, mitochondrial health", "Protocols: Sublingual, injection, or IV", "Stack with: MOTS-C, SS-31, Glutathione"],
-      "tags": ["nad+", "longevity", "mitochondrial"]
+      "title": "NAD+ & Longevity",
+      "duration": "5 min"
     },
     {
-      "id": "sun-1",
       "day": "sunday",
-      "weekOf": "2026-05-25",
-      "title": "Community Q&A: Your Top Questions Answered",
-      "description": "We answer the most-asked questions from the PepSmart community. Sourcing advice, dosing tips, stacking strategies, and more.",
-      "duration": "5:30",
-      "audioUrl": "/podcast/placeholder.mp3",
-      "showNotes": ["Question 1: How do I verify a vendor's COA?", "Question 2: Can I stack BPC-157 with GLP-1s?", "Question 3: What's the best time of day to inject?", "Question 4: How do I handle side effects?", "Question 5: Where do I find a peptide-knowledgeable doctor?"],
-      "tags": ["community", "qa", "questions"]
+      "title": "Community Q&A",
+      "duration": "5 min"
     }
   ]
 }
