@@ -63,4 +63,4 @@ export default function Header() {
       </div>
     </header>
   );
-}/home/engine/.bashrc: line 1: syntax error near unexpected token `('
+}
