@@ -48,7 +48,7 @@ export function LatestNewsFeed({ limit = 4 }: { limit?: number }) {
   );
 }
 
-export function LatestNewsHome() {
+export default function LatestNewsHome() {
   return (
     <FadeIn>
       <section className="py-20">
