@@ -50,7 +50,7 @@ const products = {
 
 export default function ProductPage() {
   const { slug } = useParams();
-  const product = products[slug];
+  const product = products[slug as string];
   if (!product) notFound();
   return (
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="min-h-screen pt-24 pb-16 bg-zinc-50">
