@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "PepSmart",
+    "slug": "pepsmart",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "pepsmart",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#7c3aed"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pepsmart.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#7c3aed"
+      },
+      "package": "com.pepsmart.app"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
